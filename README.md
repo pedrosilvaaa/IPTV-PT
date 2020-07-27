@@ -1,4 +1,4 @@
-#EXTM3U
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",24Kitchen.pt
 blaze.pt
 #EXTINF:0 tvg-id="ext" group-title="Channels",ABolaTV.pt
